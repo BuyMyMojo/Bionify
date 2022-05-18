@@ -1,5 +1,5 @@
 # Bionify
-A replication of Bionic Reader from ycombinator by hexomancer but as a temper monkey script
+A replication of Bionic Reader from [ycombinator by hexomancer](https://news.ycombinator.com/item?id=30787290#30788949) but as a temper monkey script
 
 ## How to install
 
