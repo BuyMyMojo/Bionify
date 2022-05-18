@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bionify
 // @namespace    https://news.ycombinator.com/item?id=30787290
-// @version      0.1
+// @version      0.2
 // @description  Replicates Bionic Reader on all pages
 // @author       You
 // @match      *://*/*
@@ -16,7 +16,6 @@
             }
             var numBold = Math.ceil(word.length * 0.3);
 
-            // return "<div class=\"bionic-highlight\">" + word.slice(0, numBold) + "</div>" +  + "<div class=\"bionic-rest\">" + word.slice(numBold) + "</div>";
             return "<b>" + word.slice(0, numBold) + "</b>" + "<span>" + word.slice(numBold) + "</span>";
         }
 
