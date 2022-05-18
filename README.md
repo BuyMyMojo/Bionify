@@ -9,3 +9,7 @@ A replication of Bionic Reader from [ycombinator by hexomancer](https://news.yco
 
 ### License
 Hexomancer was the one to write it origionally so unless they otherwise object I'm just having it as MIT license since it's so simple, like the code <3
+
+#### Other tools
+
+You should go check out the [fastread](https://github.com/ahrm/chrome-fastread) extension for chrome if you use it, it's the one I personally use.
